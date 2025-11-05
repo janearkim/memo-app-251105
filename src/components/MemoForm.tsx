@@ -189,7 +189,7 @@ export default function MemoForm({
                   }
                   preview="live"
                   hideToolbar={false}
-                  visibleDragBar={false}
+                  visibleDragbar={false}
                   height={400}
                 />
               </div>
